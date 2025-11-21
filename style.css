@@ -76,7 +76,7 @@ margin-bottom: 30px;
 line-height: 1.5;
 }
 
-.cta-btn {
+.button {
 background: #0fa89a;
 padding: 12px 22px;
 text-decoration: none;
@@ -86,7 +86,7 @@ font-weight: bold;
 transition: 0.3s;
 }
 
-.cta-btn:hover {
+.button:hover {
 background: #0dc2b0;
 }
 
